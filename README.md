@@ -17,9 +17,12 @@ Hi, my name is Hojoon Lee. I am currently pursuing a Master's degree in Informat
 In this course, I aim to enforce my data visualization skills and enhance my ability to present insights effectively. 
 Specifically, I hope to learn:
 
-1. How to create impactful and interactive visualizations
-2. Best practices for data storytelling and dashboard design
-3. Looking forward to gaining hands-on experience and building a portfolio of data-driven projects
+1. The most commonly used visualization types in industries such as finance, healthcare, and technology.
+2. How to choose the right type of visualization based on the dataset and audience.
+3. Advanced visualization techniques for handling complex or multidimensional data.
+4. Best practices for making visualizations clear, engaging, and insightful.
+  
+Looking forward to gaining hands-on experience and building a portfolio of data-driven projects :)
 
 # Portfolio
 
