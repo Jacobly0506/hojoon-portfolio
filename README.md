@@ -13,6 +13,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi, my name is Hojoon Lee. I am currently pursuing a Master's degree in Information Systems Management at Carnegie Mellon University with a concentration in IT Management. My interests lie in data analytics, cybersecurity, and distributed systems. I have experience working as an IT Assistant at Temple University, Transportation Data Scientist at Jiseong Aluminum, Co.Ltd, and Research Assistant at Carnegie Mellon University, and I am passionate about leveraging technology to solve real-world problems.
 
+Linkedin: https://www.linkedin.com/in/hojoon-jacob-lee/
+
 # What I hope to learn
 In this course, I aim to enforce my data visualization skills and enhance my ability to present insights effectively. 
 Specifically, I hope to learn:
