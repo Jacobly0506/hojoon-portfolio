@@ -28,6 +28,10 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 # Portfolio
 
+## Challenge Exercise: Data viz redesign!
+<iframe title="Global Smart City Rankings" aria-label="Split Bars" id="datawrapper-chart-p7GfS" src="https://datawrapper.dwcdn.net/p7GfS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1358" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
 ## Assignment 1:  [Data_visualization_critique](Data_visualization_critique)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
