@@ -58,15 +58,13 @@ Part 2
 </script>
 
 Part 3
-<div class='tableauPlaceholder' id='vizPart2' style='width: 100%; height: 800px;'>
+<div class='tableauPlaceholder' id='vizPart3' style='width: 100%; height: 800px;'>
   <object class='tableauViz' width='100%' height='100%' style='display: none;'>
     <param name='host_url' value='https://public.tableau.com/' />
     <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='Part2_17427625993070/1' />
-    <param name='tabs' value='no' />
+    <param name='path' value='shared/CNYRHN3W8' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/Pa/Part2_17427625993070/1.png' />
+    <param name='static_image' value='https://public.tableau.com/static/images/CN/CNYRHN3W8/1.png' />
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
@@ -76,7 +74,7 @@ Part 3
   </object>
 </div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('vizPart2');
+  var divElement = document.getElementById('vizPart3');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width = '100%';
   vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
