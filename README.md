@@ -57,6 +57,7 @@ Part 2
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 Part 3
 <div class='tableauPlaceholder' id='vizPart3' style='width: 100%; height: 800px;'>
   <object class='tableauViz' width='100%' height='100%' style='display: none;'>
@@ -82,6 +83,8 @@ Part 3
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+In my final redesign, I wanted to shift the focus from the detailed year by year trends shown in the heatmap to a broader, more accessible story using a geographic approach. I created a map that displays the average general government debt ratio from 1995 to 2019 for each OECD country. My goal was to simplify the data and make it easier for viewers to quickly identify which countries have consistently maintained high or low debt levels over the 25 years of period. Using a red color scale - ranging from light pink for low debt to dark red for high debt. Also, on my map, I highlighted key outliers such as Japan, Greece, and Italy. I think, this design choice made regional patterns more visible and gave the data a global context that was less apparent in the heatmap. Compared to the highlight table in Part 2, I personally think that the redesigned map is more effective for a general audience or executive - level presentation. The redesigned map reduces complexity, delivers a visual takeaway, and it better suited for executive summaries or general public consumption. 
 
 ## Assignment 2: [TBA](TBA)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.
