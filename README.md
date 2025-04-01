@@ -126,6 +126,7 @@ In my redesign, I will focus on making the score more understandable by clearly 
 
 <div class='tableauPlaceholder' id='viz1743544864280' style='position: relative'><noscript><a href='#'><img alt='Railroad Infrastructure Quality Rankings (2019) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RailroadInfrastructureQualityRankings2019EarlyDraft&#47;Original&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RailroadInfrastructureQualityRankings2019EarlyDraft&#47;Original' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RailroadInfrastructureQualityRankings2019EarlyDraft&#47;Original&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div> <script type='text/javascript'>                    var divElement = document.getElementById('viz1743544864280');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
+#### Early Draft Solutions
 To begin designing a solution, I explored alternatives to the original bar chart. I created a few early drafts in Tableau to test different ways of presenting the railroad infrastructure quality data more clearly.
 
 In the original version, the bar chart showed raw scores ranging from 4.1 to 6.8, but it lacked context, visual hierarchy, and deeper engagement. It also used a single flat color and didn’t indicate how the score related to a broader range.
@@ -141,7 +142,7 @@ These changes are an attempt to improve:
 - Aesthetics (with color gradients)
 - Completeness (with better labeling and interpretation support)
 
-While this draft is still bar-based, it already provides more context than the original chart and moves toward more engaging storytelling. For my next step, I plan to shift from bar charts to a choropleth map in Tableau to show geographic patterns.
+While this draft is still bar-based, it already provides more context than the original chart and moves toward more engaging storytelling.
 
 ### Step 4: Test the solution
 
