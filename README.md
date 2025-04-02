@@ -101,7 +101,7 @@ For this assignment, I selected the dataset and original visualization from the 
 
 #### Rate each specialty in the original data visualization:
 
-| Criterion        | Score (1–10) | Rationale |
+| Criteria        | Score (1–10) | Reason |
 |------------------|-------------|-----------|
 | **Usefulness**   | 7           | The visualization serves a basic comparative function, ranking countries by railroad quality. However, without context or definition of the metric, its practical value is limited — especially for professional decision-makers. |
 | **Completeness** | 5           | The chart lacks critical information such as the year, data source, and methodology. Viewers don’t know what the scores actually mean, reducing its ability to support informed interpretation. |
@@ -148,7 +148,7 @@ While this draft is still bar-based, it already provides more context than the o
 
 #### Redesigning Process
 
-After creating an early draft of the redesigned visualization using a choropleth map, I presented it to my peers during the in-class critique session. The map shows global railroad infrastructure quality scores, using a midpoint threshold of 50%, with countries shaded accordingly. I did not explain the visualization during the critique. Instead, I observed how my peers interpreted it on their own and collected their feedback.
+After creating an early draft of the redesigned visualization using a choropleth map based on step 3, I presented it to my peers during the in-class critique session. The map shows global railroad infrastructure quality scores, using a midpoint threshold of 50%, with countries shaded accordingly. I did not explain the visualization during the critique. Instead, I observed how my peers interpreted it on their own and collected their feedback.
 
 #### Feedback Received
 
@@ -169,7 +169,7 @@ After creating an early draft of the redesigned visualization using a choropleth
 
 - Two of my group peers asked about the color logic, which showed that color choice impacts user interpretation and emotional framing.
 
-- One of my group peers wanted interactivity or filtering options, even though that’s not in scope for my final version — but I noted it as a future improvement opportunity.
+- One of my group peers wanted interactivity or filtering options.
 
 ### Step 5: Build your solution
 
@@ -205,6 +205,8 @@ This redesign aims to move beyond simple rankings to tell a more contextual and 
 
 - **Dataset Source**: [MakeoverMonday 2022 Week 47 – Railroad Infrastructure Quality Rankings](https://data.world/makeovermonday/2022w47)
 - **Video Referenced**: [Watch Me Viz - #MakeoverMonday 2022 Week 47 - Railroad infrastructure quality rankings](https://www.youtube.com/live/2ZREVC3jayU?feature=shared) by Andy Kriebel
+
+### AI Usage
 - **GPT4.0**: Used for grammar checks and writing style
 
 ## Assignment 3: [TBA](TBA)
