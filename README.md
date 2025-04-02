@@ -91,11 +91,9 @@ In my final redesign, I wanted to shift the focus from the detailed year by year
 ## Assignment 2: Critique and redesign (MakeoverMonday)
 
 ### Step 1: Choose a Data Visualization from MakeoverMonday
-For this assignment, I selected the dataset and original visualization from the MakeoverMonday Week 47 (2022) challenge: **Railroad Infrastructure Quality Rankings**.
+For this assignment, I selected the dataset and original visualization from the MakeoverMonday Week 47 (2022) challenge: **Railroad Infrastructure Quality Rankings**, because it presents a globally relevant topic that intersects with transportation, infrastructure investment, and development equity.
 
 - **Dataset Source**: [MakeoverMonday 2022 Week 47 – Railroad Infrastructure Quality Rankings](https://data.world/makeovermonday/2022w47)
-- **Original Source Organization**: World Economic Forum (via The Global Competitiveness Report)
-- **Data Year**: 2019
 
 ### Step 2: Critique the data visualization
 
@@ -192,8 +190,11 @@ For my final visualization, I used Tableau to create an interactive choropleth m
 **These choices improved several criteria from Few’s profile, especially:**
 
 - Truthfulness: Clarified data range, source, and scale.
+  
 - Engagement: Enabled user exploration via filtering.
+  
 - Completeness: Added contextual explanations.
+  
 - Perceptibility: Used intuitive color contrast and clearer score display.static layout, focusing on clarity and perceptibility, even though filters were suggested. I opted not to include interactivity since this is a static assignment.
 
 #### Final Visualization Goal
@@ -204,7 +205,7 @@ This redesign aims to move beyond simple rankings to tell a more contextual and 
 
 - **Dataset Source**: [MakeoverMonday 2022 Week 47 – Railroad Infrastructure Quality Rankings](https://data.world/makeovermonday/2022w47)
 - **Video Referenced**: [Watch Me Viz - #MakeoverMonday 2022 Week 47 - Railroad infrastructure quality rankings](https://www.youtube.com/live/2ZREVC3jayU?feature=shared) by Andy Kriebel
-- No additional **AI** used for this assignment.
+- **GPT4.0**: Used for grammar checks and writing style
 
 ## Assignment 3: [TBA](TBA)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
