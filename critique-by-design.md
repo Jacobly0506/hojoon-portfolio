@@ -81,7 +81,7 @@ After creating an early draft of the redesigned visualization using a choropleth
 
 - Two of my group peers asked about the color logic, which showed that color choice impacts user interpretation and emotional framing.
 
-- One of my group peers wanted interactivity or filtering options, even though that’s not in scope for my final version — but I noted it as a future improvement opportunity.
+- One of my group peers wanted interactivity or filtering options.
 
 ## Step 5: Build your solution
 
