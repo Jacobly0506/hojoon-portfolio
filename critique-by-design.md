@@ -68,11 +68,11 @@ After creating an early draft of the redesigned visualization using a choropleth
   Suggested I add a clear annotation explaining the midpoint (50%) threshold on the map, so viewers understand what divides the color scale between higher- and lower-performing
   countries.
 
-- Student, MSPPM-DA degree
+- Student, MSPPM-DA degree:
   Mentioned that the color scheme could be improved. Instead of using green, blue is usually more positive. They recommended using a single hue
   with a gradient (e.g., light to dark blue) for more intuitive emotional cues.
 
-- Student, ME-CEH degree
+- Student, ME-CEH degree:
   Suggested including filters (e.g., by global rank or top 10) to make it easier for users to explore the highest-performing countries and interact with the data.
 
 ### Insights & Patterns
