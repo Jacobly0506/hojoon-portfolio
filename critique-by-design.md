@@ -1,6 +1,6 @@
 | [home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Assignment 2: Critique and redesign (MakeoverMonday)
+# Critique and redesign (MakeoverMonday)
 
 ## Step 1: Choose a Data Visualization from MakeoverMonday
 For this assignment, I selected the dataset and original visualization from the MakeoverMonday Week 47 (2022) challenge: **Railroad Infrastructure Quality Rankings**, because it presents a globally relevant topic that intersects with transportation, infrastructure investment, and development equity.
@@ -13,7 +13,7 @@ For this assignment, I selected the dataset and original visualization from the 
 
 ### Rate each specialty in the original data visualization:
 
-| Criterion        | Score (1–10) | Rationale |
+| Criteria        | Score (1–10) | Reasons |
 |------------------|-------------|-----------|
 | **Usefulness**   | 7           | The visualization serves a basic comparative function, ranking countries by railroad quality. However, without context or definition of the metric, its practical value is limited — especially for professional decision-makers. |
 | **Completeness** | 5           | The chart lacks critical information such as the year, data source, and methodology. Viewers don’t know what the scores actually mean, reducing its ability to support informed interpretation. |
@@ -60,7 +60,7 @@ While this draft is still bar-based, it already provides more context than the o
 
 ### Redesigning Process
 
-After creating an early draft of the redesigned visualization using a choropleth map, I presented it to my peers during the in-class critique session. The map shows global railroad infrastructure quality scores, using a midpoint threshold of 50%, with countries shaded accordingly. I did not explain the visualization during the critique. Instead, I observed how my peers interpreted it on their own and collected their feedback.
+After creating an early draft of the redesigned visualization using a choropleth map based on step 3, I presented it to my peers during the in-class critique session. The map shows global railroad infrastructure quality scores, using a midpoint threshold of 50%, with countries shaded accordingly. I did not explain the visualization during the critique. Instead, I observed how my peers interpreted it on their own and collected their feedback.
 
 ### Feedback Received
 
