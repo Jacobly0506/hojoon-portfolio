@@ -56,7 +56,7 @@ This project uses a publicly available dataset from data.world, which contains t
 - Limited contact information
 Each row represents a single Starbucks store, making the dataset ideal for spatial analysis and global comparisons.
 
-The dataset will serve as the foundation for all visualizations in this project. It will be used to map the physical locations of stores across the world map, enabling visual storytelling through heatmaps and clustering diagrams. The latitude and longitude fields will allow me to create interactive maps in Tableau Public, while the country and city fields will be used to count and compare store distribution by region. Additionally, I may explore the opening hours field to assess regional differences in operating times, and use this to tell a deeper story about how Starbucks adapts to local culture and consumer behavior. All data cleaning and preparation will be done using Excel before importing into Tableau for visualization.
+The dataset will serve as the foundation for all visualizations in this project. It will be used to map the physical locations of stores across the world map, enabling visual storytelling through heatmaps and clustering diagrams. The latitude and longitude fields will allow me to create interactive maps in Tableau Public, while the country and city fields will be used to count and compare store distribution by region.
 
 | Name | URL | Description |
 |------|-----|-------------|
