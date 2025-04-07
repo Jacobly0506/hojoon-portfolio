@@ -42,18 +42,25 @@ As a reader, I want to understand where Starbucks stores are located globally, s
 
 Text here...
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+## The data
 
-Text here...
+This project uses a publicly available dataset from data.world, which contains the geographic and descriptive information for over 13,000 Starbucks store locations around the world. The dataset includes key attributes such as... 
+- Store name,
+- Street address,
+- City,
+- State,
+- Country,
+- Latitude,
+- Longitude,
+- Opening hours,
+- Limited contact information
+Each row represents a single Starbucks store, making the dataset ideal for spatial analysis and global comparisons.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The dataset will serve as the foundation for all visualizations in this project. It will be used to map the physical locations of stores across the world map, enabling visual storytelling through heatmaps and clustering diagrams. The latitude and longitude fields will allow me to create interactive maps in Tableau Public, while the country and city fields will be used to count and compare store distribution by region. Additionally, I may explore the opening hours field to assess regional differences in operating times, and use this to tell a deeper story about how Starbucks adapts to local culture and consumer behavior. All data cleaning and preparation will be done using Excel before importing into Tableau for visualization.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|Starbucks Global Stores|[Starbucks Global Location](https://data.world/data-hut/starbucks-store-location-data)|Location, address, hours, and coordinates of stores|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
