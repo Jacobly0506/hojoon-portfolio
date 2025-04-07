@@ -62,10 +62,20 @@ The dataset will serve as the foundation for all visualizations in this project.
 |------|-----|-------------|
 |Starbucks Global Stores|[Starbucks Global Stores](https://data.world/data-hut/starbucks-store-location-data)|Location, address, hours, and coordinates of stores|
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+## Method and medium
 
-Text here...
+To complete the final project, I will use Tableau Public for all data visualizations and Shorthand as the storytelling platform. Tableau is well-suited for creating rich, interactive graphics that allow users to explore both global and local trends. Shorthand will serve as the medium to combine narrative and visual content into a clean, scrollable story.
+
+I will present each visualization as part of a structured storyline. Specifically, I will create:
+
+- Global symbol maps to display all Starbucks locations using geographic coordinates
+- City-level maps for top 3 urban centers (e.g., New York, Tokyo) to illustrate dense clustering patterns
+- Heatmaps to show store intensity across countries and cities
+- Bar charts to compare total store counts by country
+- Stacked bar charts to break down store counts by region or city within top countries
+- Treemaps to visualize proportional relationships between countries or cities in terms of store volume
+
+These visuals will be exported and embedded directly into the Shorthand narrative to guide the reader step-by-step through the story. All data used will be cleaned in Excel to correct inconsistencies and ensure location accuracy before import into Tableau.
 
 ## References
 _List any references you used here._
