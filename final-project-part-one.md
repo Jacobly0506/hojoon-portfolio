@@ -1,6 +1,6 @@
 | [home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Mapping the Global Footprint of Starbucks: How a Coffee Chain Spreads Across Cities and Countries
+# Mapping the Global Footprint of Starbucks: <br/>How a Coffee Chain Spreads Across Cities and Countries
 
 ## High-Level Summary
 
