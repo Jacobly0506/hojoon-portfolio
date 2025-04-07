@@ -1,16 +1,41 @@
 | [home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Mapping the Global Footprint of Starbucks: How a Coffee Chain Spreads Across Cities and Countries
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## High-Level Summary
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Starbucks has become one of the most recognized global brands, with thousands of stores spread across continents. However, its expansion strategy varies widely across countries and cities. This project explores the geographic footprint of Starbucks locations around the world, using data visualization to highlight where stores are concentrated, how cities are saturated, and how the company adapts its store density to urban layout, consumer demand, and regional strategies.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+By examining the spatial distribution of Starbucks stores using interactive maps and charts, the project aims to tell a story about globalization, urbanization, and retail strategy. Readers will gain insight into where and how Starbucks chooses to scale its operations — from dense clusters in major cities like Tokyo or New York, to sparse placement in newer markets. The project will also explore how opening hours differ across locations and whether patterns emerge based on geography or culture.
 
-Text here...
+## Project Structure
+
+This project maps Starbucks store locations globally to explore how store density and distribution reflect regional business strategies and urban development.
+
+## User Story
+
+As a reader, I want to understand where Starbucks stores are located globally, so that I can better grasp the company’s international expansion patterns and how they relate to geography and culture.
+
+## Story Arc:
+
+1. The Setting
+   - Introduction to Starbucks as a global brand
+   - Brief history of its expansion and presence in 80+ countries
+
+2. The Rising Action
+   - Overview map showing global distribution
+   - Bar chart ranking countries by total number of Starbucks locations
+   - Highlight regional differences in store counts
+
+3. The Climax
+   - Get deeper into top cities (e.g. New York, Seoul, Tokyo)
+   - Use city-level maps to show clustering and density
+   - Explore whether location patterns align with transportation hubs, tourist zones, or population centers
+
+4. The Resolution
+   - Identify gaps: where is Starbucks not found?
+   - Reflect on what store distribution patterns say about globalization and urban development
+   - Conclude with implications for future growth
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
