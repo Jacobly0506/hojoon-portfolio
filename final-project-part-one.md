@@ -60,7 +60,7 @@ The dataset will serve as the foundation for all visualizations in this project.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Starbucks Global Stores|[Starbucks Global Location](https://data.world/data-hut/starbucks-store-location-data)|Location, address, hours, and coordinates of stores|
+|Starbucks Global Stores|[starbucks-store-location-data](https://data.world/data-hut/starbucks-store-location-data)|Location, address, hours, and coordinates of stores|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
