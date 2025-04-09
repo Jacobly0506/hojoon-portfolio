@@ -1,84 +1,89 @@
 | [home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Mapping the Global Footprint of Starbucks: <br/>How a Coffee Chain Spreads Across Cities and Countries
+# A Closer Look at Suicide in the United States: A Data-Driven Mental Health Story
 
 ## High-Level Summary
 
-Starbucks has become one of the most recognized global brands, with thousands of stores spread across continents. However, its expansion strategy varies widely across countries and cities. This project explores the geographic footprint of Starbucks locations around the world, using data visualization to highlight where stores are concentrated, how cities are saturated, and how the company adapts its store density to urban layout, consumer demand, and regional strategies.
+Suicide is one of the leading causes of death in the United States and a critical indicator of national mental health. This project explores suicide case data across the U.S., uncovering patterns by state, gender, age group, and year. Through interactive data visualizations, this project aims to raise awareness of mental health challenges and tell a responsible, thoughtful story about who is most at risk—and where support may be needed most.
 
-By examining the spatial distribution of Starbucks stores using interactive maps and charts, the project aims to tell a story about globalization, urbanization, and retail strategy. Readers will gain insight into where and how Starbucks chooses to scale its operations — from dense clusters in major cities like Tokyo or New York, to sparse placement in newer markets. The project will also explore how opening hours differ across locations and whether patterns emerge based on geography or culture.
+Using maps, charts, and demographic breakdowns, the project will explore how suicide rates vary regionally and whether any clear trends emerge over time. This work will be presented with care, including appropriate content warnings, and will be focused on encouraging data-informed discussions about public health.
+
+## Content Warning
+
+This project includes data and visualizations related to suicide cases. Some content may be sensitive or triggering. Viewer discretion is advised.
 
 ## Project Structure
 
-This project maps Starbucks store locations globally to explore how store density and distribution reflect regional business strategies and urban development.
+This project analyzes suicide case data across U.S. states and demographic groups to explore underlying patterns and disparities.
 
 ## User Story
 
-As a reader, I want to understand where Starbucks stores are located globally, so that I can better grasp the company’s international expansion patterns and how they relate to geography and culture.
+As a reader, I want to understand how suicide cases vary across the United States by age, gender, and location, so that I can better grasp where and among whom the crisis is most severe.
 
 ## Story Arc:
 
 1. The Setting
-   - Introduction to Starbucks as a global brand
-   - Brief history of its expansion and presence in 80+ countries
+   - Introduction to suicide as a serious public health issue in the U.S.
+   - Brief overview of rising concern about mental health over recent years
 
 2. The Rising Action
-   - Overview map showing global distribution
-   - Bar chart ranking countries by total number of Starbucks locations
-   - Highlight regional differences in store counts
+   - Overview map of suicide cases by U.S. state
+   - Year-by-year breakdown to show trends over time
+   - Gender-based comparisons
 
 3. The Climax
-   - Get deeper into top cities (e.g. New York, Seoul, Tokyo)
-   - Use city-level maps to show clustering and density
-   - Explore whether location patterns align with transportation hubs, tourist zones, or population centers
+   - Dive into age-specific and gender-specific suicide data
+   - Use heatmaps and bar charts to show high-risk groups
+   - Highlight patterns in certain regions or age brackets
 
-4. The Resolution
-   - Identify gaps: where is Starbucks not found?
-   - Reflect on what store distribution patterns say about globalization and urban development
-   - Conclude with implications for future growth
+4. The Falling Action
+   - Interpret key findings: which regions or age groups show concerning trends
+   - Discuss possible factors (e.g., socioeconomic, access to mental health care, rural vs. urban differences)
+   - Introduce voices or policies that respond to the data (if applicable)
+
+5. The Conclusion
+   - Reflect on the broader implications for public health
+   - Emphasize the importance of continued awareness and preventive action
+   - Note dataset limitations and encourage responsible data interpretation
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
-
 ## The data
 
-This project uses a publicly available dataset from data.world, which contains the geographic and descriptive information for over 13,000 Starbucks store locations around the world. The dataset includes key attributes such as... 
-- Store name,
-- Street address,
-- City,
-- State,
-- Country,
-- Latitude,
-- Longitude,
-- Opening hours,
-- Limited contact information
-Each row represents a single Starbucks store, making the dataset ideal for spatial analysis and global comparisons.
+The Data
+This project uses a publicly available dataset from data.world, which includes detailed suicide case data across the U.S.
+
+Each row in the dataset contains attributes such as:
+- State
+- Gender
+- Age Group
+- Year
+- Number of Cases
+
+These variables allow for a comprehensive breakdown of trends by region and demographic. I will clean and transform the data using Excel, and build visualizations in Tableau to guide readers through the story.
 
 The dataset will serve as the foundation for all visualizations in this project. It will be used to map the physical locations of stores across the world map, enabling visual storytelling through heatmaps and clustering diagrams. The latitude and longitude fields will allow me to create interactive maps in Tableau Public, while the country and city fields will be used to count and compare store distribution by region.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Starbucks Global Stores|[Starbucks Global Stores](https://data.world/data-hut/starbucks-store-location-data)|Location, address, hours, and coordinates of stores|
+|Suicide Cases in the United States|[Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states))|Includes yearly suicide case counts broken down by state, gender, and age group|
 
 ## Method and medium
 
-To complete the final project, I will use Tableau Public for all data visualizations and Shorthand as the storytelling platform. Tableau is well-suited for creating rich, interactive graphics that allow users to explore both global and local trends. Shorthand will serve as the medium to combine narrative and visual content into a clean, scrollable story.
+Visualizations will be created using Tableau Public, and the final story will be published using Shorthand.
 
-I will present each visualization as part of a structured storyline. Specifically, I will create:
+Planned visuals include:
 
-- Global symbol maps to display all Starbucks locations using geographic coordinates
-- City-level maps for top 3 urban centers (e.g., New York, Tokyo) to illustrate dense clustering patterns
-- Heatmaps to show store intensity across countries and cities
-- Bar charts to compare total store counts by country
-- Stacked bar charts to break down store counts by region or city within top countries
-- Treemaps to visualize proportional relationships between countries or cities in terms of store volume
+- Choropleth maps of suicide cases by state
+- Bar charts comparing age and gender groups
+- Time series charts showing changes over years
+- Heatmaps highlighting high-risk age-state combinations
 
-These visuals will be exported and embedded directly into the Shorthand narrative to guide the reader step-by-step through the story. All data used will be cleaned in Excel to correct inconsistencies and ensure location accuracy before import into Tableau.
+The narrative will follow a linear structure, embedding these visuals within a guided scrollable story on Shorthand.
 
 ## References
-_List any references you used here._
+- data.world: Suicide Cases in the United States
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+- I used ChatGPT to help grammar and writing style.
