@@ -67,7 +67,7 @@ The dataset will serve as the foundation for all visualizations in this project.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Suicide Cases in the United States|[Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states))|Includes yearly suicide case counts broken down by state, gender, and age group|
+|Suicide Cases in the United States|[Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states)|Includes yearly suicide case counts broken down by state, gender, and age group|
 
 ## Method and medium
 
