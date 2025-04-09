@@ -83,7 +83,7 @@ Planned visuals include:
 The narrative will follow a linear structure, embedding these visuals within a guided scrollable story on Shorthand.
 
 ## References
-- data.world: Suicide Cases in the United States
+- Data.world: Suicide Cases in the United States
 
 ## AI acknowledgements
 - I used ChatGPT to help grammar and writing style.
