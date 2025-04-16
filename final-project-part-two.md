@@ -56,8 +56,8 @@ This story is meant for young adult and graduate-level readers who are intereste
 | Goal | Questions to Ask |
 |------|------------------|
 |Gauge emotional clarity|What feeling or takeaway do you get from this graph?|
-|Assess readability|Is the chart easy to understand without much explanation?|
 |Evaluate story continuity|Does each chart help you follow the storyline?|
+|Assess readability|Is the chart easy to understand without much explanation?|
 |Check call-to-action potential|After seeing the story, what would you want to learn or do next?|
 
 ## Interview findings
@@ -66,34 +66,28 @@ This story is meant for young adult and graduate-level readers who are intereste
 |-------------------------|--------------------------------|-------------|-------------|
 |**Feeling/takeaway?**| Felt urgency around mental health crisis|Surprised by state-by-state gap|Noted gender imbalance strongly|
 |**Does story flow?**|Yes, good escalation|Wanted age/gender deeper analysis|Well-structured story-telling resource|
-|**What to do next?**|Want to learn deeper analysis|Liked color clarity, but Graph 4 needed labels|Suggested using fewer legend items|
+|**What to do next (suggestion)?**|Want to learn deeper analysis|Liked color clarity, but Graph 4 needed labels|Suggested using fewer legend items|
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Graph 4 label confusion | Add axis title and stronger labels |
+| Color legend confusion  | Simplify color palette where possible  |
+| Desire for action steps  |Add reflection section at end of Shorthand    |
 
-> ...include any final thoughts you have here. 
 
-Text here!
+## Final Thoughts
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Working on this project highlighted not just the importance of effective data storytelling, but also the emotional responsibility that comes with sensitive topics like suicide. Each graph became more than just a chart — it became a lens through which I could understand the real people behind the data. I now better appreciate how design, clarity, and empathy can work together to raise awareness and call for action. Moving into Part III, my focus will be on refining user experience and ensuring my final Shorthand story is both informative and human-centered.
 
 ## References
-_List any references you used here._
+
+Data.world: [Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states)
+Tableau Public: [Tableau Public](https://public.tableau.com/app/profile/hojoon.lee/vizzes)
+ShortHand: [Shorthand](https://shorthand.com/)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+- I used ChatGPT to help grammar and writing style.
