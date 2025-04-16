@@ -84,9 +84,9 @@ Working on this project highlighted not just the importance of effective data st
 
 ## References
 
-Data.world: [Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states)
-Tableau Public: [Tableau Public](https://public.tableau.com/app/profile/hojoon.lee/vizzes)
-ShortHand: [Shorthand](https://shorthand.com/)
+- Data.world: [Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states)
+- Tableau Public: [Tableau Public](https://public.tableau.com/app/profile/hojoon.lee/vizzes)
+- ShortHand: [Shorthand](https://shorthand.com/)
 
 ## AI acknowledgements
 
