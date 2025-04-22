@@ -86,7 +86,10 @@ Working on this project highlighted not just the importance of effective data st
 
 - Data.world: [Suicide Cases in the United States](https://data.world/guy-govt/suicide-cases-in-the-united-states)
 - Tableau Public: [Tableau Public](https://public.tableau.com/app/profile/hojoon.lee/vizzes)
-- ShortHand: [Shorthand](https://shorthand.com/)
+- ShortHand: [Shorthand](https://carnegiemellon.shorthandstories.com/unheard-crisis/index.html)
+- [Nigeria’s law makes it a crime to attempt suicide – there are better ways to prevent tragedy](https://theconversation.com/nigerias-law-makes-it-a-crime-to-attempt-suicide-there-are-better-ways-to-prevent-tragedy-169398)
+- [Nashville Suicide Prevention Resources](https://southeastaddictiontn.com/nashville-suicide-prevention-resources/)
+- [What You Should Know About Suicide](https://www.healthline.com/health/suicide-and-suicidal-behavior)
 
 ## AI acknowledgements
 
