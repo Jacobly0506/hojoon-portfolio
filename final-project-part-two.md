@@ -4,6 +4,10 @@
 
 This story explores suicide case data in the U.S. from 2000 to 2024 to reveal critical demographic, psychological, and regional patterns. Using five high-fidelity graphs built in Tableau, the visual narrative walks readers through the persistent rise in suicide, the vulnerable populations most at risk, the lethality of suicide methods, the disparity in mental health treatment access, and finally the geography of help — or the lack thereof.
 
+## Content Warning
+
+This project includes data and visualizations related to suicide cases. Some content may be sensitive or triggering. Viewer discretion is advised.
+
 ## Graph 1 - Line Chart
 
 ### Title: A Crisis Over Time: Suicide Trends in the U.S. (2000 - 2004)
