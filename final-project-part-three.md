@@ -6,6 +6,10 @@ ShortHand: [Too Close, Too Quiet: A Data Story on Suicide in the U.S.](https://c
 
 This story uses national suicide case data from 2000–2024 to guide the audience through five key aspects of the crisis: long-term trends, demographic disparities, the most common methods, the mismatch between mental illness and treatment access, and geographic gaps. The goal was to make these patterns feel personal, especially for young adults who may not realize how close to home this issue hits. Visuals are intentionally simple but emotionally resonant, with each chart paired to a specific insight and narrative cue. Rather than altering the graphs themselves, I reworked the surrounding text and structure to make the story more aligned with a meaningful, action-oriented conclusion. The final design elevates both awareness and action by encouraging the audience to reflect, share, and support mental health visibility.
 
+## Content Warning
+
+This project includes data and visualizations related to suicide cases. Some content may be sensitive or triggering. Viewer discretion is advised.
+
 # Changes made since Part II
 
 Since completing Part II, I focused on transforming my visualizations into a cohesive story with stronger flow and emotional clarity. One of the major improvements came after Professor Goranson’s feedback that the story needed a clearer audience and goal. I revised the introduction and added a strong call-to-action at the end focused on public awareness. Bryan also suggested making the Shorthand story more visible and cleanly presented, so I redesigned the layout and confirmed the public link worked.
@@ -47,6 +51,6 @@ If I had more time, I would have explored subgroup trends (e.g., race, region) a
 
 One area I hoped to explore further was how the patterns in this data reflect systemic differences in mental health access and policy. Suicide trends across states likely overlap with Medicaid coverage gaps, provider shortages, or underfunded community services. Highlighting those links would help shift the narrative from awareness to policy-driven action.
 
-Still, I’m proud of the final outcome. Even a single dataset, when framed intentionally, can reveal a deeply human story. This project reinforced for me that the most powerful data storytelling happens when we stop asking only “What does this chart show?” and begin asking, “Why does it matter — and what can we do about it?”
+Still, I am proud of the final outcome. Even a single dataset, when framed intentionally, can reveal a deeply human story. This project reinforced for me that the most powerful data storytelling happens when we stop asking only “What does this chart show?” and begin asking, “Why does it matter — and what can we do about it?”
 
 
