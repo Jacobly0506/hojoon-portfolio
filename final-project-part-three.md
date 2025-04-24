@@ -2,7 +2,7 @@
 
 # The final data story
 
-ShortHand: [Too Close, Too Quiet: A Data Story on Suicide in the U.S.](https://carnegiemellon.shorthandstories.com/unheard-crisis/index.html)
+<p align="center">ShortHand: [Too Close, Too Quiet: A Data Story on Suicide in the U.S.](https://carnegiemellon.shorthandstories.com/unheard-crisis/index.html)</p>
 
 This story uses national suicide case data from 2000–2024 to guide the audience through five key aspects of the crisis: long-term trends, demographic disparities, the most common methods, the mismatch between mental illness and treatment access, and geographic gaps. The goal was to make these patterns feel personal, especially for young adults who may not realize how close to home this issue hits. Visuals are intentionally simple but emotionally resonant, with each chart paired to a specific insight and narrative cue. Rather than altering the graphs themselves, I reworked the surrounding text and structure to make the story more aligned with a meaningful, action-oriented conclusion. The final design elevates both awareness and action by encouraging the audience to reflect, share, and support mental health visibility.
 
