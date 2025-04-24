@@ -43,6 +43,8 @@ In response to feedback from Bryan, I made sure each section had an intentional 
 
 # Final thoughts
 
+**Your awareness could save a life.**
+
 This project challenged me not just as a data analyst but as a storyteller. Balancing emotional weight with statistical rigor was difficult, especially when dealing with sensitive topics like suicide. I learned how essential it is to build a structured narrative with empathy — the data needs clarity, but the message needs care.
 
 Initially, I assumed the charts could speak for themselves, but user interviews and feedback made it clear that emotional framing and context were necessary. Storytelling helped turn raw data into insight, and insight into reflection. Creating a clear call-to-action was critical, which is a bridge between awareness and engagement.
