@@ -28,7 +28,7 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 # Portfolio
 
-## Assignment 1:  [Working with Tableau: Visualizing Government Debt](Working-with-tableau)
+## Assignment 1:  [Working with Tableau: Visualizing Government Debt](working-with-tableau)
 
 ### Part 2
 
