@@ -28,7 +28,7 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 # Portfolio
 
-## Assignment 1:  [Working with Tableau: Visualizing Government Debt](Working with Tableau: Visualizing Government Debt)
+## Assignment 1:  [Working with Tableau: Visualizing Government Debt](Working-with-tableau)
 
 ### Part 2
 
@@ -88,7 +88,7 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 ### Description
 In my final redesign, I wanted to shift the focus from the detailed year by year trends shown in the heatmap to a broader, more accessible story using a geographic approach. I created a world map visualization that displays the average general government debt ratio from 1995 to 2019 for each OECD country. My goal was to simplify the data and make it easier for viewers to quickly identify which countries have consistently maintained high or low debt levels over the 25 years of period. Using a red color scale - ranging from light pink for low debt to dark red for high debt. Also, on my map, I highlighted key outliers such as Japan, Greece, and Italy. I think, this design choice made regional patterns more visible and gave the data a global context that was less apparent in the heatmap. Compared to the highlight table in Part 2, I personally think that the heatmap, while rich in detail, can be overwhelming without context. Therefore, the redesigned map is more effective for a general audience or executive - level presentation. The redesigned map reduces complexity, delivers a visual takeaway, and it better suited for executive summaries or general public consumption. 
 
-## Assignment 2: [Critique and redesign (MakeoverMonday)](crtique-by-design) 
+## Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design) 
 
 ### Step 1: Choose a Data Visualization from MakeoverMonday
 For this assignment, I selected the dataset and original visualization from the MakeoverMonday Week 47 (2022) challenge: **Railroad Infrastructure Quality Rankings**, because it presents a globally relevant topic that intersects with transportation, infrastructure investment, and development equity.
