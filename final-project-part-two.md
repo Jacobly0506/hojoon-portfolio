@@ -1,4 +1,4 @@
-| [home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)
 
 # Wireframes / storyboards
 
