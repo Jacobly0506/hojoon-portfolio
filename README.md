@@ -1,4 +1,4 @@
-[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Sketch](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)
+|[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)|
 
 # Welcome to Hojoon's TSWD portfolio!
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
