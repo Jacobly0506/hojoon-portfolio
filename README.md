@@ -32,8 +32,8 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 ## Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design)
 
-## Final project:
+## Final project Part I:[Part I](final-project-part-one)
 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+## Final project Part II:[Part II](final-project-part-two)
+
+## Final project Part III:[Part III](final-project-part-three)
