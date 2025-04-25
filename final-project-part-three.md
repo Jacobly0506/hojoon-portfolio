@@ -1,16 +1,17 @@
 |[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)|
+# Too Close, Too Quite: A Data Story on Suicide in the U.S.
 
-# The final data story
+## The final data story
 
 ShortHand: [Too Close, Too Quiet: A Data Story on Suicide in the U.S.](https://carnegiemellon.shorthandstories.com/unheard-crisis/index.html)
 
 This story uses national suicide case data from 2000–2024 to guide the audience through five key aspects of the crisis: long-term trends, demographic disparities, the most common methods, the mismatch between mental illness and treatment access, and geographic gaps. The goal was to make these patterns feel personal, especially for young adults who may not realize how close to home this issue hits. Visuals are intentionally simple but emotionally resonant, with each chart paired to a specific insight and narrative cue. Rather than altering the graphs themselves, I reworked the surrounding text and structure to make the story more aligned with a meaningful, action-oriented conclusion. The final design elevates both awareness and action by encouraging the audience to reflect, share, and support mental health visibility.
 
-## Content Warning
+### Content Warning
 
 This project includes data and visualizations related to suicide cases. Some content may be sensitive or triggering. Viewer discretion is advised.
 
-# Changes made since Part II
+## Changes made since Part II
 
 Since completing Part II, I focused on transforming my visualizations into a cohesive story with stronger flow and emotional clarity. One of the major improvements came after Professor Goranson’s feedback that the story needed a clearer audience and goal. I revised the introduction and added a strong call-to-action at the end focused on public awareness. Bryan also suggested making the Shorthand story more visible and cleanly presented, so I redesigned the layout and confirmed the public link worked.
 
@@ -41,7 +42,7 @@ In response to feedback from Bryan, I made sure each section had an intentional 
 
 - I used ChatGPT to help grammar and writing style.
 
-# Final thoughts
+## Final thoughts
 
 <p align="center"><strong>Your awareness could save a life</strong></p>
 
