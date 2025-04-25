@@ -1,6 +1,6 @@
 [Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)
 
-# Assignment 1:  [Working with Tableau: Visualizing Government Debt](Working-with-tableau)
+# [Working with Tableau: Visualizing Government Debt](Working-with-tableau)
 
 ## Part 2
 
