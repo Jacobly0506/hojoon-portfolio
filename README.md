@@ -1,4 +1,4 @@
-[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) | [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)
+[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)
 
 # Welcome to Hojoon's TSWD portfolio!
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
@@ -30,13 +30,7 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 ## Assignment 1:  [Working with Tableau: Visualizing Government Debt](working-with-tableau)
 
-## Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design) 
-
-## Assignment 3: [TBA](TBA)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
-
-## Assignment 4: [TBA](TBA)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
+## Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design)
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
