@@ -1,10 +1,11 @@
 |[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)|
+# Too Close, Too Quite: A Data Story on Suicide in the U.S.
 
-# Wireframes / storyboards
+## Wireframes / storyboards
 
 This story explores suicide case data in the U.S. from 2000 to 2024 to reveal critical demographic, psychological, and regional patterns. Using five high-fidelity graphs built in Tableau, the visual narrative walks readers through the persistent rise in suicide, the vulnerable populations most at risk, the lethality of suicide methods, the disparity in mental health treatment access, and finally the geography of help — or the lack thereof.
 
-## Content Warning
+### Content Warning
 
 This project includes data and visualizations related to suicide cases. Some content may be sensitive or triggering. Viewer discretion is advised.
 
@@ -48,12 +49,12 @@ This map visualizes the state-by-state distribution of suicide cases where indiv
 
 <div class='tableauPlaceholder' id='viz1744839109639' style='position: relative'><noscript><a href='#'><img alt='Where Help Is Needed Most: Suicide Cases Across U.S. States (2000 - 2024) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wh&#47;WhereHelpIsNeededMostSuicideCasesAcrossU_S_States2000-2024&#47;1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WhereHelpIsNeededMostSuicideCasesAcrossU_S_States2000-2024&#47;1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wh&#47;WhereHelpIsNeededMostSuicideCasesAcrossU_S_States2000-2024&#47;1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>                    var divElement = document.getElementById('viz1744839109639');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);  </script>
 
-# User research 
+## User research 
 
-## Target audience
+### Target audience
 This story is meant for young adult and graduate-level readers who are interested in mental health, public policy, data journalism, or health care inequality. Interviewees were selected to reflect diversity in background and varying levels of familiarity with data visualization.
 
-## Interview script
+### Interview script
 
 ### Goal: Understand how effectively readers interpret the narrative and visualizations, and whether they feel compelled to think about policy or mental health in new ways.
 
@@ -64,7 +65,7 @@ This story is meant for young adult and graduate-level readers who are intereste
 |Assess readability|Is the chart easy to understand without much explanation?|
 |Check call-to-action potential|After seeing the story, what would you want to learn or do next?|
 
-## Interview findings
+### Interview findings
 
 | Questions               | Interview 1 (MSPPM - DA Student) | Interview 2 (MSPPM Student) | Interview 3 (MISM-BIDA Student) |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -73,7 +74,7 @@ This story is meant for young adult and graduate-level readers who are intereste
 |**What to do next (suggestion)?**|Want to learn deeper analysis|Liked color clarity, but Graph 4 needed labels|Suggested using fewer legend items|
 
 
-# Identified changes for Part III
+## Identified changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
