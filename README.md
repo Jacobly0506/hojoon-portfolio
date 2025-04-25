@@ -28,12 +28,16 @@ Looking forward to gaining hands-on experience and building a portfolio of data-
 
 # Portfolio
 
-## Assignment 1:  [Working with Tableau: Visualizing Government Debt](working-with-tableau)
+## Assignments
 
-## Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design)
+### Assignment 1:  [Working with Tableau: Visualizing Government Debt](working-with-tableau)
 
-## Final project: [Part 1](final-project-part-one)
+### Assignment 2: [Critique and redesign (MakeoverMonday)](critique-by-design)
 
-## Final project: [Part 2](final-project-part-two)
+## Final Project: Too Close, Too Quite: A Data Story on Suicide in the U.S.
 
-## Final project: [Part 3](final-project-part-three)
+### Final project: [Part 1](final-project-part-one)
+
+### Final project: [Part 2](final-project-part-two)
+
+### Final project: [Part 3](final-project-part-three)
