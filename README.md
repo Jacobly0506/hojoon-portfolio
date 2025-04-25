@@ -4,8 +4,8 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://jacobly0506.github.io/hojoon-portfolio/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: [Hojoon's Portfolio](https://jacobly0506.github.io/hojoon-portfolio/)
+- Template Extracted from [CMU TSWD Template](https://github.com/cmustudent/tswd-portfolio-templates/)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
