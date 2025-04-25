@@ -1,4 +1,5 @@
-|[Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three)|
+| [Home page](https://jacobly0506.github.io/hojoon-portfolio/) | [In-Class-Activities](dataviz-examples) |[Working with Tableau](working-with-tableau)| [Critique By Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) |
+
 # Too Close, Too Quite: A Data Story on Suicide in the U.S.
 
 ## The final data story
